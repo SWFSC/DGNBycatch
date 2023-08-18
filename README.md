@@ -1,7 +1,7 @@
 # DGNBycatch
  Bycatch Estimates included in the report:
  
-Carretta, James V. 2022. Estimates of marine mammal, sea turtle, and seabird bycatch in the California large-mesh drift gillnet fishery: 1990-2021. U.S. Department of Commerce, NOAA Technical Memorandum NMFS-SWFSC-671. https://doi.org/10.25923/kh19-sk22
+Carretta, James V. 2023. Estimates of marine mammal, sea turtle, and seabird bycatch in the California large-mesh drift gillnet fishery: 1990-2022. U.S. Department of Commerce, NOAA Technical Memorandum NMFS-SWFSC-687. https://doi.org/10.25923/kp3k-r222
 
 Annual estimates are included by species / taxa group as CSV files. Filenames are of the format [Species Code] + ".All.Estimates.csv".  Species codes can be found in the 'SpeciesCodes' text file in the main branch. https://github.com/JimCarretta/DGNBycatch/blob/main/SpeciesCodes
 
