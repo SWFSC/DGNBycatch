@@ -1,0 +1,34 @@
+Code,Species,Scientific_Name
+AT,GUADALUPE FUR SEAL,Arctocephalus townsendi
+BA,MINKE WHALE,Balaenoptera acutorostrata
+BD,BAIRD'S BEAKED WHALE,Berardius bairdii
+beaked.whales,BEAKED WHALES,All Beaked Whales
+BP,FIN WHALE,Balaenoptera physalus
+CC,LOGGERHEAD TURTLE,Caretta caretta
+CM,GREEN TURTLE,Chelonia mydas
+DC,LEATHERBACK TURTLE,Dermochelys coriacea
+DD,"COMMON DOLPHIN, UNIDENTIFIED",Delphinus sp.
+DL,"COMMON DOLPHIN, LONG-BEAKED",Delphinus bairdii
+DS,"COMMON DOLPHIN, SHORT-BEAKED",Delphinus delphis
+EJ,STELLER'S SEA LION,Eumetopias jubatus
+ER,GRAY WHALE,Eschrichtius robustus
+fGL,N. FULMAR,Fulmaris glacialis
+GG,RISSO'S DOLPHIN,Grampus griseus
+GM,PILOT WHALE,Globicephala macrorhynchus
+KB,PYGMY SPERM WHALE,Kogia breviceps
+LB,N RIGHT WHALE DOLPHIN,Lissodelphis borealis
+LO,PACIFIC WHITE-SIDED DOLPHIN,Lagenorhynchus obliquidens
+LV,OLIVE RIDELY TURTLE,Lepidochelys olivacea
+MA,N ELEPHANT SEAL,Mirounga angustirostris
+MC,HUBB'S BEAKED WHALE,Mesoplodon carlhubbsi
+mesoplodon,MESOPLODON,Mesoplodon sp.
+MN,HUMPBACK WHALE,Megaptera novaeangliae
+MT,STEJNEGER'S BEAKED WHALE,Mesoplodon stejnegeri
+OO,KILLER WHALE,Orcinus orca
+PD,DALL'S PORPOISE,Phocoenoides dalli
+PM,SPERM WHALE,Physeter macrocephalus
+SC,STRIPED DOLPHIN,Stenella coeruleoalba
+TT,BOTTLENOSE DOLPHIN,Tursiops truncatus
+ZC,CA SEA LION,Zalophus californianus
+ZI,CUVIER'S BEAKED WHALE,Ziphius cavirostris
+ZU,UNID. ZIPHIID,Unidentified ziphiid
